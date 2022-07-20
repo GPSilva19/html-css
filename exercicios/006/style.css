@@ -52,18 +52,21 @@ article {
     height: 300px;
     box-sizing: border-box;
     color: white;
-    background-color: #020101;
+    background-image: url(img/wallpaper005.jpg);
     text-align: justify;
+    border-radius: 20px;
 }
 
 article h3 {
     text-align: center;
     padding: 20px 5px;
+    color: black;
 }
 
 article p {
     text-align: center;
     padding: 0px 5px 20px 5px;
+    color: black;
 }
 
 footer {
